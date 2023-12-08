@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#map {
+  /* Ensure that the map container takes up the full viewport */
+  width: 100vw;
+  height: 100vh;
+  /* Additional styles may affect the size as well */
+}
