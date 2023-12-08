@@ -1,4 +1,3 @@
-// pages/index.tsx
 import Head from 'next/head';
 import MapComponent from '../ui/Map';
 const HomePage: React.FC = () => {
